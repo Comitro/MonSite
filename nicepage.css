@@ -42828,18 +42828,13 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -32px 255px 0;
 }
 
-.u-footer .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
-
 .u-footer .u-social-icons-1 {
   height: 23px;
   min-height: 16px;
   width: 56px;
   min-width: 42px;
   white-space: nowrap;
-  margin: -28px 0 60px 1084px;
+  margin: -28px 0 5px 1084px;
 }
 
 .u-footer .u-icon-1 {
